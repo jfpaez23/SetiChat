@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry kind="lib" path="C:/Users/c0a00219.AIG.000/Desktop/SeTIChat/libs/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/c0a00219.AIG.000/Desktop/SeTIChat/libs/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/c0a00219.AIG.000/Desktop/SeTIChat/libs/sax2.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
